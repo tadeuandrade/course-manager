@@ -14,7 +14,7 @@ export class CourseListComponent {
       {
         id: 1,
         name: 'teste',
-        imageUrl: '',
+        imageUrl: '/assets/images/forms.png',
         price: 105,
         code: 'GPG',
         duration: 120,
@@ -25,11 +25,11 @@ export class CourseListComponent {
       {
         id: 2,
         name: 'teste2',
-        imageUrl: '',
+        imageUrl: '/assets/images/http.png',
         price: 200,
         code: 'GPG-x',
         duration: 350,
-        rating: 4,
+        rating: 4.5,
         releaseDate: 'November, 2 2022'
 
       }
